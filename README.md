@@ -1,19 +1,19 @@
-<h1 align="center">Hi ðŸ‘‹, I'm Yash</h1>
+<h1 align="center">Hi 👋, I'm Yash</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash143220&label=Profile%20views&color=0e75b6&style=flat" alt="yash143220" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash143220" alt="yash143220" /></a> </p>
 
-- ðŸ”­ Iâ€™m currently working as a frontend developer. **Building Modern website.**
+- 🔭 I’m currently working as a frontend developer. **Building Modern website.**
 
-- ðŸŒ± Iâ€™m currently learning **Frameworks, courses, HTML5, CSS, JavaScript, C++, C, Python, DBMS, etc.**
+- 🌱 I’m currently learning **Frameworks, courses, HTML5, CSS, JavaScript, C++, C, Python, DBMS, etc.**
 
-- ðŸ‘¯ Iâ€™m looking to collaborate on Discord Bot **Cold Bot**
+- 👯 I’m looking to collaborate on Discord Bot **Cold Bot**
 
-- ðŸ“« How to reach me **yashvinayak1432.github@gmail.com**
+- 📫 How to reach me **yashvinayak1432.github@gmail.com**
 
-- âš¡ Fun fact **I think I'm funny. ðŸ¥­ðŸ˜…**
+- ⚡ Fun fact **I think I'm funny. 🥭😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
