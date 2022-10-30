@@ -29,3 +29,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash143220&show_icons=true&locale=en" alt="yash143220" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash143220&" alt="yash143220" /></p>
+<p>
+<a href="https://top.gg/bot/947942751444566076">
+  <img src="https://top.gg/api/widget/947942751444566076.svg">
+</a>
+
+</p>
